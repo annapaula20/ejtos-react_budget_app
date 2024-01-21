@@ -1,0 +1,5 @@
+
+.custom-dropdown:hover {
+    background-color: rgb(209, 228, 254); /* Change background color on hover */
+    color: white; /* Change text color on hover */
+}
